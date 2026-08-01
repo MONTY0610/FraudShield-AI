@@ -1,25 +1,27 @@
+import streamlit as st
+
 st.divider()
 
 st.subheader("👨‍💻 Developer")
 
 st.info("""
-**Developer:** Tanay
+    **Developer:** Tanay
 
-**Technology Stack**
+    **Technology Stack**
 
-• Python
+    • Python
 
-• Pandas
+    • Pandas
 
-• Scikit-Learn
+    • Scikit-Learn
 
-• XGBoost
+    • XGBoost
 
-• Streamlit
+    • Streamlit
 
-• Plotly
+    • Plotly
 
-• Matplotlib
+    • Matplotlib
 
-Version **1.0**
+    Version **1.0**
 """)
